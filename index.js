@@ -1,4 +1,5 @@
 const file2Exp = require("./folder1/file2");
+console.log("Hello world")
 
 const num1 = 8;
 const num2 = 4;
@@ -13,3 +14,4 @@ for (let i = 0; i < 10; i++){
 }
 
 console.log("/n END");
+
